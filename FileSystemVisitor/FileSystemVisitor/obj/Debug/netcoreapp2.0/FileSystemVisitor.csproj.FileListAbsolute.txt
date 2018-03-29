@@ -1,0 +1,9 @@
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\bin\Debug\netcoreapp2.0\FileSystemVisitor.deps.json
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\bin\Debug\netcoreapp2.0\FileSystemVisitor.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\bin\Debug\netcoreapp2.0\FileSystemVisitor.pdb
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\obj\Debug\netcoreapp2.0\FileSystemVisitor.csprojResolveAssemblyReference.cache
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\obj\Debug\netcoreapp2.0\FileSystemVisitor.csproj.CoreCompileInputs.cache
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\obj\Debug\netcoreapp2.0\FileSystemVisitor.AssemblyInfoInputs.cache
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\obj\Debug\netcoreapp2.0\FileSystemVisitor.AssemblyInfo.cs
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\obj\Debug\netcoreapp2.0\FileSystemVisitor.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitor\obj\Debug\netcoreapp2.0\FileSystemVisitor.pdb

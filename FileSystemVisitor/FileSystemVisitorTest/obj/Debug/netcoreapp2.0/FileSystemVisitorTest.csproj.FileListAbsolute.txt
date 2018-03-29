@@ -1,0 +1,16 @@
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitorTest.deps.json
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitorTest.runtimeconfig.json
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitorTest.runtimeconfig.dev.json
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitorTest.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitorTest.pdb
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitor.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\bin\Debug\netcoreapp2.0\FileSystemVisitor.pdb
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\obj\Debug\netcoreapp2.0\FileSystemVisitorTest.csprojResolveAssemblyReference.cache
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\obj\Debug\netcoreapp2.0\FileSystemVisitorTest.csproj.CoreCompileInputs.cache
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\obj\Debug\netcoreapp2.0\FileSystemVisitorTest.AssemblyInfoInputs.cache
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\obj\Debug\netcoreapp2.0\FileSystemVisitorTest.AssemblyInfo.cs
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\obj\Debug\netcoreapp2.0\FileSystemVisitorTest.dll
+D:\Mentoring\Day 1\FileSystemVisitor\FileSystemVisitorTest\obj\Debug\netcoreapp2.0\FileSystemVisitorTest.pdb
